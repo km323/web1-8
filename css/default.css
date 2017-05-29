@@ -16,7 +16,7 @@ float:left;
 }
 
 #gnav li:first-child{
-border-left;white 1px solid;
+border-left:white 1px solid;
 }
 
 .breadcrumbs li{
