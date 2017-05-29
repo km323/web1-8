@@ -43,7 +43,7 @@ float:left;
   list-style-type:none;
 }
 
-.breadcrumbs li:befor{
+.breadcrumbs li:before{
 content:">";
 }
 
